@@ -1,5 +1,15 @@
 # my-first-project
-my first project is now online
+.PROJECT
+my first project is online
+.WHAT IS MADE OF
 it was created using html,csss and vscode
-here is its link :file:///C:/Users/HP/Desktop/my-project/plat.html
-author:manzi,derrick,sam,reponse,nelson,gedeon.
+.LINK
+ :file:///C:/Users/HP/Desktop/my-project/plat.html
+ .COLLABORATORS
+ .Derrick
+ .Sam
+ .Gedeon
+ .Fred
+ .Blanco
+ .Manzi
+ .Reponse
